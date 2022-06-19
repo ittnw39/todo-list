@@ -15,7 +15,7 @@ h1{
     font-size: 80px;
     font-family: 'Jua', sans-serif;
     font-weight: 400;
-    color: powderpink;
+    color: white;
     
 }
 
@@ -23,14 +23,14 @@ span{
     font-size: 15px;
     font-family: 'Jua', sans-serif;
     font-weight: 400;
-    color: powderblue;
+    color: white;
 }
 
 #clock{
     font-size: 50px;
     font-family: 'Jua', sans-serif;
     font-weight: 700;
-    color: powderblue;
+    color: white;
     
 
 }
