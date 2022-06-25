@@ -24,6 +24,7 @@ span{
     font-family: 'Jua', sans-serif;
     font-weight: 400;
     color: gray;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
 
 #clock{
@@ -31,6 +32,7 @@ span{
     font-family: 'Jua', sans-serif;
     font-weight: 700;
     color: gray;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
     
 
 }
@@ -40,6 +42,7 @@ span{
     font-family: 'Jua', sans-serif;
     width: 100px; 
     margin: 0 auto;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
 
 #todo-form input{
@@ -61,6 +64,7 @@ li{
     padding-right: 15px;
     padding-left: 10px;
     font-size: 25px;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
 
 button{
@@ -80,7 +84,7 @@ padding-inline: 0px;
 #login-form input{
     font-size: 30px;
     font-family: 'Jua', sans-serif;
-
+    
     border-radius: 10px; 
     border-top-left-radius: 10px; 
     border-top-right-radius: 10px; 
