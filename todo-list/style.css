@@ -16,7 +16,7 @@ h1{
     font-family: 'Jua', sans-serif;
     font-weight: 400;
     color: gray;
-    
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
 
 span{
